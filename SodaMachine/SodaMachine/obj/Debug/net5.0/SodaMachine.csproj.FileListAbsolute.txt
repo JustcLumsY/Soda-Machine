@@ -1,0 +1,16 @@
+C:\Users\cLuMsY\source\repos\SodaMachine\SodaMachine\obj\Debug\net5.0\SodaMachine.csproj.AssemblyReference.cache
+C:\Users\cLuMsY\source\repos\SodaMachine\SodaMachine\obj\Debug\net5.0\SodaMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cLuMsY\source\repos\SodaMachine\SodaMachine\obj\Debug\net5.0\SodaMachine.AssemblyInfoInputs.cache
+C:\Users\cLuMsY\source\repos\SodaMachine\SodaMachine\obj\Debug\net5.0\SodaMachine.AssemblyInfo.cs
+C:\Users\cLuMsY\source\repos\SodaMachine\SodaMachine\obj\Debug\net5.0\SodaMachine.csproj.CoreCompileInputs.cache
+C:\Users\cLuMsY\source\repos\SodaMachine\SodaMachine\bin\Debug\net5.0\SodaMachine.exe
+C:\Users\cLuMsY\source\repos\SodaMachine\SodaMachine\bin\Debug\net5.0\SodaMachine.deps.json
+C:\Users\cLuMsY\source\repos\SodaMachine\SodaMachine\bin\Debug\net5.0\SodaMachine.runtimeconfig.json
+C:\Users\cLuMsY\source\repos\SodaMachine\SodaMachine\bin\Debug\net5.0\SodaMachine.runtimeconfig.dev.json
+C:\Users\cLuMsY\source\repos\SodaMachine\SodaMachine\bin\Debug\net5.0\SodaMachine.dll
+C:\Users\cLuMsY\source\repos\SodaMachine\SodaMachine\bin\Debug\net5.0\ref\SodaMachine.dll
+C:\Users\cLuMsY\source\repos\SodaMachine\SodaMachine\bin\Debug\net5.0\SodaMachine.pdb
+C:\Users\cLuMsY\source\repos\SodaMachine\SodaMachine\obj\Debug\net5.0\SodaMachine.dll
+C:\Users\cLuMsY\source\repos\SodaMachine\SodaMachine\obj\Debug\net5.0\ref\SodaMachine.dll
+C:\Users\cLuMsY\source\repos\SodaMachine\SodaMachine\obj\Debug\net5.0\SodaMachine.pdb
+C:\Users\cLuMsY\source\repos\SodaMachine\SodaMachine\obj\Debug\net5.0\SodaMachine.genruntimeconfig.cache
